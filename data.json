@@ -1,0 +1,1639 @@
+{
+    "code": 1,
+    "msg": "获取成功",
+    "data": [
+        {
+            "itemName": "M14射手步枪",
+            "itemID": 18050000005,
+            "itemGrade": 0,
+            "itemForge": [
+                {
+                    "requiredLevel": 1,
+                    "productionTime": "37.5",
+                    "hourlyProfit": 935.90903022818
+                },
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "30",
+                    "hourlyProfit": 1169.8862877852
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/18050000005.png",
+            "place": "tech",
+            "placeName": "技术中心",
+            "totalMaterialLists": [
+                {
+                    "itemName": "工具箱",
+                    "itemID": 15020040001,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020040001.png",
+                    "count": 1,
+                    "perPrice": "32018",
+                    "totalPrice": 32018
+                },
+                {
+                    "itemName": "枪械零件",
+                    "itemID": 15040010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15040010021.png",
+                    "count": 2,
+                    "perPrice": 18210.078205027,
+                    "totalPrice": 36420.156410053
+                }
+            ],
+            "totalMaterialValue": 68438.156410053,
+            "perCount": 1,
+            "singlePrice": 116331.1742063,
+            "profit": 35096.588633557,
+            "yesterdayHighestPrice": 125314.60368636,
+            "yesterdayHighestProfit": 43150.223584163,
+            "yesterdayTotalMaterialValue": 68379.773696697,
+            "yesterdayHighestTime": "凌晨1点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "沙暴垂直补偿器",
+            "itemID": 13130000168,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "10.5",
+                    "hourlyProfit": 3294.8064216232
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 4942.2096324348
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13130000168.png",
+            "place": "tech",
+            "placeName": "技术中心",
+            "totalMaterialLists": [
+                {
+                    "itemName": "枪械零件",
+                    "itemID": 15040010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15040010021.png",
+                    "count": 1,
+                    "perPrice": 18210.078205027,
+                    "totalPrice": 18210.078205027
+                },
+                {
+                    "itemName": "手锯",
+                    "itemID": 15080050087,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050087.png",
+                    "count": 1,
+                    "perPrice": 12660.550416081,
+                    "totalPrice": 12660.550416081
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 2,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 8399.8178210723
+                }
+            ],
+            "totalMaterialValue": 39270.44644218,
+            "perCount": 1,
+            "singlePrice": 82995.408841825,
+            "profit": 34595.467427044,
+            "yesterdayHighestPrice": 89685.300887277,
+            "yesterdayHighestProfit": 40568.578858273,
+            "yesterdayTotalMaterialValue": 39251.338931403,
+            "yesterdayHighestTime": "晚上6点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "堡垒水平补偿器",
+            "itemID": 13130000167,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "10.5",
+                    "hourlyProfit": 3019.8109277257
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 4529.7163915886
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13130000167.png",
+            "place": "tech",
+            "placeName": "技术中心",
+            "totalMaterialLists": [
+                {
+                    "itemName": "枪械零件",
+                    "itemID": 15040010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15040010021.png",
+                    "count": 1,
+                    "perPrice": 18210.078205027,
+                    "totalPrice": 18210.078205027
+                },
+                {
+                    "itemName": "手锯",
+                    "itemID": 15080050087,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050087.png",
+                    "count": 1,
+                    "perPrice": 12660.550416081,
+                    "totalPrice": 12660.550416081
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 2,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 8399.8178210723
+                }
+            ],
+            "totalMaterialValue": 39270.44644218,
+            "perCount": 1,
+            "singlePrice": 79751.079981236,
+            "profit": 31708.01474112,
+            "yesterdayHighestPrice": 81617.370429866,
+            "yesterdayHighestProfit": 33382.054839088,
+            "yesterdayTotalMaterialValue": 39257.404843492,
+            "yesterdayHighestTime": "下午5点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "钛金竞赛制退器",
+            "itemID": 13130000160,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 4158.1230470325
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13130000160.png",
+            "place": "tech",
+            "placeName": "技术中心",
+            "totalMaterialLists": [
+                {
+                    "itemName": "枪械零件",
+                    "itemID": 15040010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15040010021.png",
+                    "count": 1,
+                    "perPrice": 18210.078205027,
+                    "totalPrice": 18210.078205027
+                },
+                {
+                    "itemName": "石工锤",
+                    "itemID": 15080050084,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050084.png",
+                    "count": 1,
+                    "perPrice": 13509.74486359,
+                    "totalPrice": 13509.74486359
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 2,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 8399.8178210723
+                },
+                {
+                    "itemName": "尖嘴钳",
+                    "itemID": 15020010019,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010019.png",
+                    "count": 1,
+                    "perPrice": 2591.6373626374,
+                    "totalPrice": 2591.6373626374
+                }
+            ],
+            "totalMaterialValue": 42711.278252327,
+            "perCount": 1,
+            "singlePrice": 80694.538855679,
+            "profit": 29106.861329228,
+            "yesterdayHighestPrice": 81824.611371237,
+            "yesterdayHighestProfit": 32299.715541118,
+            "yesterdayTotalMaterialValue": 40524.188579283,
+            "yesterdayHighestTime": "上午10点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "视点3倍瞄准镜",
+            "itemID": 13110000073,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "6",
+                    "hourlyProfit": 4522.8233766465
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000073.png",
+            "place": "tech",
+            "placeName": "技术中心",
+            "totalMaterialLists": [
+                {
+                    "itemName": "枪械零件",
+                    "itemID": 15040010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15040010021.png",
+                    "count": 1,
+                    "perPrice": 18210.078205027,
+                    "totalPrice": 18210.078205027
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 1,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 4199.9089105362
+                },
+                {
+                    "itemName": "LED灯管",
+                    "itemID": 15020010032,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010032.png",
+                    "count": 3,
+                    "perPrice": 3328.9280040733,
+                    "totalPrice": 9986.78401222
+                }
+            ],
+            "totalMaterialValue": 32396.771127783,
+            "perCount": 1,
+            "singlePrice": 66891.810547935,
+            "profit": 27136.940259879,
+            "yesterdayHighestPrice": 71033.785036995,
+            "yesterdayHighestProfit": 30508.66831024,
+            "yesterdayTotalMaterialValue": 32711.400372686,
+            "yesterdayHighestTime": "下午4点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "7.62x39mm BP",
+            "itemID": 37110400001,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "10.5",
+                    "hourlyProfit": 17821.025465535
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 26731.538198303
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/7.62x39mm.png",
+            "place": "workbench",
+            "placeName": "工作台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "中级子弹生产零件 (军需处兑换)",
+                    "itemID": 15080050024,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050024.png",
+                    "count": 3,
+                    "perPrice": 21217.051923694,
+                    "totalPrice": 63651.155771081
+                },
+                {
+                    "itemName": "低级燃料",
+                    "itemID": 15020010034,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010034.png",
+                    "count": 1,
+                    "perPrice": 15382.615238848,
+                    "totalPrice": 15382.615238848
+                },
+                {
+                    "itemName": "7.62x39mm T45M",
+                    "itemID": 37110200001,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/7.62x39mm.png",
+                    "count": 30,
+                    "perPrice": 115.27329275397,
+                    "totalPrice": 3458.1987826192
+                },
+                {
+                    "itemName": "角磨机",
+                    "itemID": 15020010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010021.png",
+                    "count": 1,
+                    "perPrice": 4070.7184328597,
+                    "totalPrice": 4070.7184328597
+                }
+            ],
+            "totalMaterialValue": 86562.688225408,
+            "perCount": 180,
+            "singlePrice": 1708.3861149409,
+            "profit": 187120.76738812,
+            "yesterdayHighestPrice": 1835.240403032,
+            "yesterdayHighestProfit": 207348.80547617,
+            "yesterdayTotalMaterialValue": 86656.70708956,
+            "yesterdayHighestTime": "晚上8点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "7.62x51mm M62",
+            "itemID": 37170500001,
+            "itemGrade": 5,
+            "itemForge": [
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "8",
+                    "hourlyProfit": 23174.586322507
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/7.62x51mm.png",
+            "place": "workbench",
+            "placeName": "工作台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "高级燃料 (军需处兑换)",
+                    "itemID": 15020010035,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010035.png",
+                    "count": 3,
+                    "perPrice": 39820.407183985,
+                    "totalPrice": 119461.22155195
+                },
+                {
+                    "itemName": "初级子弹生产零件",
+                    "itemID": 15080050023,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050023.png",
+                    "count": 1,
+                    "perPrice": 22192.447706251,
+                    "totalPrice": 22192.447706251
+                },
+                {
+                    "itemName": "火药",
+                    "itemID": 15040010017,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15040010017.png",
+                    "count": 1,
+                    "perPrice": 25181.635158809,
+                    "totalPrice": 25181.635158809
+                },
+                {
+                    "itemName": "低级燃料",
+                    "itemID": 15020010034,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010034.png",
+                    "count": 3,
+                    "perPrice": 15382.615238848,
+                    "totalPrice": 46147.845716544
+                }
+            ],
+            "totalMaterialValue": 212983.15013356,
+            "perCount": 120,
+            "singlePrice": 3730.1483212886,
+            "profit": 185396.69058006,
+            "yesterdayHighestPrice": 3913.3745865204,
+            "yesterdayHighestProfit": 233874.87563508,
+            "yesterdayTotalMaterialValue": 184073.53020529,
+            "yesterdayHighestTime": "上午7点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "6.8x51mm FMJ",
+            "itemID": 37150400001,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "10.5",
+                    "hourlyProfit": 17421.272910358
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 26131.909365538
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/6.8x51mm.png",
+            "place": "workbench",
+            "placeName": "工作台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "中级子弹生产零件 (军需处兑换)",
+                    "itemID": 15080050024,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050024.png",
+                    "count": 3,
+                    "perPrice": 21217.051923694,
+                    "totalPrice": 63651.155771081
+                },
+                {
+                    "itemName": "低级燃料",
+                    "itemID": 15020010034,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010034.png",
+                    "count": 3,
+                    "perPrice": 15382.615238848,
+                    "totalPrice": 46147.845716544
+                },
+                {
+                    "itemName": "角磨机",
+                    "itemID": 15020010021,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010021.png",
+                    "count": 1,
+                    "perPrice": 4070.7184328597,
+                    "totalPrice": 4070.7184328597
+                },
+                {
+                    "itemName": "电动爆破锤",
+                    "itemID": 15020010007,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010007.png",
+                    "count": 2,
+                    "perPrice": 4195.8194852306,
+                    "totalPrice": 8391.6389704612
+                }
+            ],
+            "totalMaterialValue": 122261.35889095,
+            "perCount": 180,
+            "singlePrice": 1905.0232487497,
+            "profit": 182923.36555876,
+            "yesterdayHighestPrice": 2046.4334061997,
+            "yesterdayHighestProfit": 204186.05385464,
+            "yesterdayTotalMaterialValue": 123652.57781855,
+            "yesterdayHighestTime": "晚上6点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "5.8x42mm DBP10",
+            "itemID": 37130400001,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "10.5",
+                    "hourlyProfit": 16571.038350608
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 24856.557525912
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/5.8x42mm.png",
+            "place": "workbench",
+            "placeName": "工作台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "中级子弹生产零件 (军需处兑换)",
+                    "itemID": 15080050024,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050024.png",
+                    "count": 2,
+                    "perPrice": 21217.051923694,
+                    "totalPrice": 42434.103847388
+                },
+                {
+                    "itemName": "低级燃料",
+                    "itemID": 15020010034,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010034.png",
+                    "count": 2,
+                    "perPrice": 15382.615238848,
+                    "totalPrice": 30765.230477696
+                },
+                {
+                    "itemName": "5.8x42mm DBP87",
+                    "itemID": 37130200001,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/5.8x42mm.png",
+                    "count": 150,
+                    "perPrice": 96.65974176065,
+                    "totalPrice": 14498.961264098
+                }
+            ],
+            "totalMaterialValue": 87698.295589181,
+            "perCount": 180,
+            "singlePrice": 1633.5468056839,
+            "profit": 173995.90268139,
+            "yesterdayHighestPrice": 1793.9087284464,
+            "yesterdayHighestProfit": 197554.89106812,
+            "yesterdayTotalMaterialValue": 89829.287228981,
+            "yesterdayHighestTime": "晚上9点",
+            "priceCurve": ""
+        },
+        {
+            "itemName": "9x39mm SP6",
+            "itemID": 37140400001,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "10.5",
+                    "hourlyProfit": 16569.667317852
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "7",
+                    "hourlyProfit": 24854.500976778
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/gun\/ammo\/9x39mm.png",
+            "place": "workbench",
+            "placeName": "工作台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "中级子弹生产零件 (军需处兑换)",
+                    "itemID": 15080050024,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050024.png",
+                    "count": 3,
+                    "perPrice": 21217.051923694,
+                    "totalPrice": 63651.155771081
+                },
+                {
+                    "itemName": "低级燃料",
+                    "itemID": 15020010034,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010034.png",
+                    "count": 1,
+                    "perPrice": 15382.615238848,
+                    "totalPrice": 15382.615238848
+                },
+                {
+                    "itemName": "低级燃料",
+                    "itemID": 15020010034,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010034.png",
+                    "count": 1,
+                    "perPrice": 15382.615238848,
+                    "totalPrice": 15382.615238848
+                }
+            ],
+            "totalMaterialValue": 94416.386248777,
+            "perCount": 180,
+            "singlePrice": 1675.3925910501,
+            "profit": 173981.50683745,
+            "yesterdayHighestPrice": 1855.4164186121,
+            "yesterdayHighestProfit": 200297.39555651,
+            "yesterdayTotalMaterialValue": 96940.314705148,
+            "yesterdayHighestTime": "晚上9点",
+            "priceCurve": {
+                "2024122117": 1741.9699319143,
+                "2024122118": 1775.1593738186,
+                "2024122119": 1778.988243568,
+                "2024122120": 1775.293235945,
+                "2024122121": 1778.6146084025,
+                "2024122122": 1781.6747333463,
+                "2024122123": 1780.9496707539,
+                "2024122200": 1779.8163092486,
+                "2024122201": 1778.4112091688,
+                "2024122202": 1775.2507036452,
+                "2024122203": 1770.9927882409,
+                "2024122204": 1771.8621464088,
+                "2024122205": 1751.644446766,
+                "2024122206": 1738.3524070487,
+                "2024122207": 1621.7692050409,
+                "2024122208": 1595.3368318328,
+                "2024122209": 1620.264531159,
+                "2024122210": 1656.3123811862,
+                "2024122211": 1696.8443863583,
+                "2024122212": 1704.4042325623,
+                "2024122213": 1697.3685760367,
+                "2024122214": 1705.5698415414,
+                "2024122215": 1743.4261932161,
+                "2024122216": 1780.7902702835,
+                "2024122217": 1798.1703376812,
+                "2024122218": 1821.4053330989,
+                "2024122219": 1820.5080368757,
+                "2024122220": 1818.9213985602,
+                "2024122221": 1855.4164186121,
+                "2024122222": 1858.1576746675,
+                "2024122223": 1858.2254873416,
+                "2024122300": 1888.0650554575,
+                "2024122301": 1893.7322046462,
+                "2024122302": 1887.5042341534,
+                "2024122303": 1830.687376014,
+                "2024122304": 1806.9872528234,
+                "2024122305": 1835.6588745834,
+                "2024122306": 1797.24270791,
+                "2024122307": 1618.8064440002,
+                "2024122308": 1575.9698298158,
+                "2024122309": 1562.7576853768,
+                "2024122310": 1546.6999699085,
+                "2024122311": 1542.3496170462,
+                "2024122312": 1605.0136322818,
+                "2024122313": 1618.755542223,
+                "2024122314": 1623.840796247,
+                "2024122315": 1659.7757458121,
+                "2024122316": 1675.3925910501
+            }
+        },
+        {
+            "itemName": "战地医疗箱",
+            "itemID": 14020000006,
+            "itemGrade": 5,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 834.69674996831
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "8",
+                    "hourlyProfit": 1252.0451249525
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/14020000006.png",
+            "place": "pharmacy",
+            "placeName": "制药台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "无菌敷料包",
+                    "itemID": 15080050057,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15080050057.png",
+                    "count": 2,
+                    "perPrice": 24695.900131406,
+                    "totalPrice": 49391.800262812
+                },
+                {
+                    "itemName": "听诊器",
+                    "itemID": 15060010006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060010006.png",
+                    "count": 1,
+                    "perPrice": 18036.171249253,
+                    "totalPrice": 18036.171249253
+                },
+                {
+                    "itemName": "纯净水",
+                    "itemID": 15060080006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060080006.png",
+                    "count": 1,
+                    "perPrice": 2192.7461191373,
+                    "totalPrice": 2192.7461191373
+                }
+            ],
+            "totalMaterialValue": 69620.717631202,
+            "perCount": 1,
+            "singlePrice": 89479.863630137,
+            "profit": 10016.36099962,
+            "yesterdayHighestPrice": 119475.32364925,
+            "yesterdayHighestProfit": 58617.073846749,
+            "yesterdayTotalMaterialValue": 47715.964201081,
+            "yesterdayHighestTime": "上午7点",
+            "priceCurve": {
+                "2024122117": 100972.44459321,
+                "2024122118": 113828.23323196,
+                "2024122119": 120222.45906521,
+                "2024122120": 115084.4934115,
+                "2024122121": 115010.92313883,
+                "2024122122": 115184.73591268,
+                "2024122123": 115193.09232693,
+                "2024122200": 115167.5363123,
+                "2024122201": 115149.28643782,
+                "2024122202": 115011.89042481,
+                "2024122203": 114999.65056563,
+                "2024122204": 115006.8860622,
+                "2024122205": 117390.27632239,
+                "2024122206": 119079.2805294,
+                "2024122207": 119475.32364925,
+                "2024122208": 116714.46811752,
+                "2024122209": 101128.95593298,
+                "2024122210": 89954.659447228,
+                "2024122211": 89863.515362511,
+                "2024122212": 89964.691450406,
+                "2024122213": 89947.141045045,
+                "2024122214": 89942.144104243,
+                "2024122215": 91855.278592088,
+                "2024122216": 95809.065461631,
+                "2024122217": 101360.58059714,
+                "2024122218": 105752.4423991,
+                "2024122219": 109452.36038595,
+                "2024122220": 107100.79728707,
+                "2024122221": 106679.64107468,
+                "2024122222": 106680.92506539,
+                "2024122223": 106705.47390176,
+                "2024122300": 106729.98180558,
+                "2024122301": 106606.2524644,
+                "2024122302": 106490.83661677,
+                "2024122303": 106504.22418082,
+                "2024122304": 106982.57888234,
+                "2024122305": 108732.67034192,
+                "2024122306": 109175.93609505,
+                "2024122307": 108989.65236976,
+                "2024122308": 103990.34182538,
+                "2024122309": 89334.01708243,
+                "2024122310": 82034.283706527,
+                "2024122311": 81339.517518248,
+                "2024122312": 81445.219564633,
+                "2024122313": 81446.742213927,
+                "2024122314": 81521.108636518,
+                "2024122315": 83186.97943817,
+                "2024122316": 89479.863630137
+            }
+        },
+        {
+            "itemName": "OE2战斗兴奋剂",
+            "itemID": 14070000008,
+            "itemGrade": 3,
+            "itemForge": [
+                {
+                    "requiredLevel": 1,
+                    "productionTime": "18",
+                    "hourlyProfit": 542.11903341632
+                },
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 813.17855012448
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/14070000008.png",
+            "place": "pharmacy",
+            "placeName": "制药台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "小药瓶",
+                    "itemID": 15060010003,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060010003.png",
+                    "count": 2,
+                    "perPrice": 2711.5453631371,
+                    "totalPrice": 5423.0907262743
+                },
+                {
+                    "itemName": "纯净水",
+                    "itemID": 15060080006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060080006.png",
+                    "count": 1,
+                    "perPrice": 2192.7461191373,
+                    "totalPrice": 2192.7461191373
+                },
+                {
+                    "itemName": "酸奶",
+                    "itemID": 15060080002,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060080002.png",
+                    "count": 1,
+                    "perPrice": 944.95137587944,
+                    "totalPrice": 944.95137587944
+                }
+            ],
+            "totalMaterialValue": 8560.788221291,
+            "perCount": 1,
+            "singlePrice": 20583.068340208,
+            "profit": 9758.1426014938,
+            "yesterdayHighestPrice": 24217.891230739,
+            "yesterdayHighestProfit": 12814.612987978,
+            "yesterdayTotalMaterialValue": 8739.3102073795,
+            "yesterdayHighestTime": "上午6点",
+            "priceCurve": {
+                "2024122117": 20494.122180482,
+                "2024122118": 20905.337224082,
+                "2024122119": 20906.403828058,
+                "2024122120": 20919.044104767,
+                "2024122121": 21655.129360664,
+                "2024122122": 22461.984324613,
+                "2024122123": 22953.538358871,
+                "2024122200": 23297.79308188,
+                "2024122201": 23594.174975244,
+                "2024122202": 23735.051981288,
+                "2024122203": 23757.478127178,
+                "2024122204": 24210.24043786,
+                "2024122205": 24213.773538826,
+                "2024122206": 24217.891230739,
+                "2024122207": 18128.823366842,
+                "2024122208": 18183.728958371,
+                "2024122209": 18504.586361528,
+                "2024122210": 19039.671800535,
+                "2024122211": 19425.824270247,
+                "2024122212": 19685.647584811,
+                "2024122213": 19987.329985305,
+                "2024122214": 20097.683155388,
+                "2024122215": 20466.243334325,
+                "2024122216": 20770.186876062,
+                "2024122217": 20918.620467776,
+                "2024122218": 21760.694881551,
+                "2024122219": 22304.125391397,
+                "2024122220": 22747.503030635,
+                "2024122221": 22979.110782866,
+                "2024122222": 23303.633716734,
+                "2024122223": 23710.870913833,
+                "2024122300": 23905.968115942,
+                "2024122301": 24216.230105379,
+                "2024122302": 24204.258903604,
+                "2024122303": 24504.774718449,
+                "2024122304": 25115.762452107,
+                "2024122305": 25651.679132041,
+                "2024122306": 26102.203262748,
+                "2024122307": 18054.595254898,
+                "2024122308": 18758.316095722,
+                "2024122309": 18817.085858092,
+                "2024122310": 19141.784342947,
+                "2024122311": 19487.696115138,
+                "2024122312": 19500.73553282,
+                "2024122313": 19877.146366006,
+                "2024122314": 19991.380580626,
+                "2024122315": 20398.10719319,
+                "2024122316": 20583.068340208
+            }
+        },
+        {
+            "itemName": "体能激活针",
+            "itemID": 14070000006,
+            "itemGrade": 3,
+            "itemForge": [
+                {
+                    "requiredLevel": 1,
+                    "productionTime": "18",
+                    "hourlyProfit": 318.9673171154
+                },
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 478.45097567311
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/14070000006.png",
+            "place": "pharmacy",
+            "placeName": "制药台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "小药瓶",
+                    "itemID": 15060010003,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060010003.png",
+                    "count": 3,
+                    "perPrice": 2711.5453631371,
+                    "totalPrice": 8134.6360894114
+                },
+                {
+                    "itemName": "手术镊子",
+                    "itemID": 15060010002,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060010002.png",
+                    "count": 1,
+                    "perPrice": 2442.8407990315,
+                    "totalPrice": 2442.8407990315
+                }
+            ],
+            "totalMaterialValue": 10577.476888443,
+            "perCount": 1,
+            "singlePrice": 18335.829883731,
+            "profit": 5741.4117080773,
+            "yesterdayHighestPrice": 20055.656739297,
+            "yesterdayHighestProfit": 7545.4432583696,
+            "yesterdayTotalMaterialValue": 10304.091239605,
+            "yesterdayHighestTime": "下午1点",
+            "priceCurve": {
+                "2024122117": 20105.464633938,
+                "2024122118": 20099.469654284,
+                "2024122119": 20058.818686804,
+                "2024122120": 19510.351509524,
+                "2024122121": 19502.275651804,
+                "2024122122": 19517.322893853,
+                "2024122123": 19515.132502509,
+                "2024122200": 19501.859239278,
+                "2024122201": 19450.465530093,
+                "2024122202": 18932.810169073,
+                "2024122203": 18896.603037944,
+                "2024122204": 18886.550558201,
+                "2024122205": 19020.068456163,
+                "2024122206": 19423.805435182,
+                "2024122207": 19318.502410883,
+                "2024122208": 19407.22747576,
+                "2024122209": 19385.128462058,
+                "2024122210": 19503.85224084,
+                "2024122211": 19530.352746734,
+                "2024122212": 19806.311106743,
+                "2024122213": 20055.656739297,
+                "2024122214": 20066.73312589,
+                "2024122215": 20091.048778596,
+                "2024122216": 20100.119762068,
+                "2024122217": 20100.616955992,
+                "2024122218": 20093.966511972,
+                "2024122219": 20065.12845066,
+                "2024122220": 20019.52564616,
+                "2024122221": 19557.598221779,
+                "2024122222": 19503.360706928,
+                "2024122223": 19495.789290816,
+                "2024122300": 19494.748091453,
+                "2024122301": 19455.727063003,
+                "2024122302": 19438.514341469,
+                "2024122303": 19415.278786392,
+                "2024122304": 19380.90987536,
+                "2024122305": 19414.612439848,
+                "2024122306": 19373.004355078,
+                "2024122307": 19382.724844346,
+                "2024122308": 19399.279211114,
+                "2024122309": 19361.401183432,
+                "2024122310": 19302.082340195,
+                "2024122311": 18941.746039754,
+                "2024122312": 18092.996862085,
+                "2024122313": 18111.669377959,
+                "2024122314": 17988.800276817,
+                "2024122315": 18389.355085822,
+                "2024122316": 18335.829883731
+            }
+        },
+        {
+            "itemName": "去甲肾上腺素",
+            "itemID": 14070000009,
+            "itemGrade": 3,
+            "itemForge": [
+                {
+                    "requiredLevel": 1,
+                    "productionTime": "18",
+                    "hourlyProfit": 12.053810788127
+                },
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 18.08071618219
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/14070000009.png",
+            "place": "pharmacy",
+            "placeName": "制药台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "小药瓶",
+                    "itemID": 15060010003,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060010003.png",
+                    "count": 1,
+                    "perPrice": 2711.5453631371,
+                    "totalPrice": 2711.5453631371
+                },
+                {
+                    "itemName": "酸奶",
+                    "itemID": 15060080002,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060080002.png",
+                    "count": 1,
+                    "perPrice": 944.95137587944,
+                    "totalPrice": 944.95137587944
+                }
+            ],
+            "totalMaterialValue": 3656.4967390166,
+            "perCount": 1,
+            "singlePrice": 4352.2082395538,
+            "profit": 216.96859418629,
+            "yesterdayHighestPrice": 4590.2516713392,
+            "yesterdayHighestProfit": 687.93702792772,
+            "yesterdayTotalMaterialValue": 3397.3869595642,
+            "yesterdayHighestTime": "上午7点",
+            "priceCurve": {
+                "2024122117": 4611.146578272,
+                "2024122118": 4620.2271598596,
+                "2024122119": 4612.9052120722,
+                "2024122120": 4368.623109054,
+                "2024122121": 4486.4400383754,
+                "2024122122": 4623.2741953572,
+                "2024122123": 4613.6067631872,
+                "2024122200": 4615.0293818946,
+                "2024122201": 4613.045920026,
+                "2024122202": 4419.6982758621,
+                "2024122203": 4454.8028606965,
+                "2024122204": 4588.2113353452,
+                "2024122205": 4574.4168817759,
+                "2024122206": 4597.6014118457,
+                "2024122207": 4590.2516713392,
+                "2024122208": 4553.7594904459,
+                "2024122209": 4581.6038210156,
+                "2024122210": 4601.8815319701,
+                "2024122211": 4594.9520867209,
+                "2024122212": 4625.4440175209,
+                "2024122213": 4624.9031048135,
+                "2024122214": 4614.2033234346,
+                "2024122215": 4619.3462742326,
+                "2024122216": 4628.5748619261,
+                "2024122217": 4628.9306348947,
+                "2024122218": 4624.6509640482,
+                "2024122219": 4568.9341166597,
+                "2024122220": 4601.1516462841,
+                "2024122221": 4611.409713641,
+                "2024122222": 4617.3945704559,
+                "2024122223": 4614.5172903277,
+                "2024122300": 4612.1071532604,
+                "2024122301": 4598.5417990469,
+                "2024122302": 4580.6836119949,
+                "2024122303": 4556.0877159309,
+                "2024122304": 4578.992637033,
+                "2024122305": 4527.7232499093,
+                "2024122306": 4581.2227836472,
+                "2024122307": 4548.7543398211,
+                "2024122308": 4524.3779578606,
+                "2024122309": 4547.8585578447,
+                "2024122310": 4126.2372521246,
+                "2024122311": 4013.1104171871,
+                "2024122312": 4059.057591623,
+                "2024122313": 4071.0370858986,
+                "2024122314": 4105.8298389547,
+                "2024122315": 4344.1594885599,
+                "2024122316": 4352.2082395538
+            }
+        },
+        {
+            "itemName": "感知激活针",
+            "itemID": 14070000004,
+            "itemGrade": 3,
+            "itemForge": [
+                {
+                    "requiredLevel": 1,
+                    "productionTime": "18",
+                    "hourlyProfit": -25.172908421659
+                },
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": -37.759362632489
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/14070000004.png",
+            "place": "pharmacy",
+            "placeName": "制药台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "小药瓶",
+                    "itemID": 15060010003,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15060010003.png",
+                    "count": 2,
+                    "perPrice": 2711.5453631371,
+                    "totalPrice": 5423.0907262743
+                },
+                {
+                    "itemName": "含氟牙膏",
+                    "itemID": 15010010004,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15010010004.png",
+                    "count": 1,
+                    "perPrice": 2157.0829694323,
+                    "totalPrice": 2157.0829694323
+                }
+            ],
+            "totalMaterialValue": 7580.1736957066,
+            "perCount": 1,
+            "singlePrice": 8007.9340945132,
+            "profit": -453.11235158987,
+            "yesterdayHighestPrice": 14978.809297913,
+            "yesterdayHighestProfit": 6083.5894252199,
+            "yesterdayTotalMaterialValue": 7247.5508499224,
+            "yesterdayHighestTime": "上午7点",
+            "priceCurve": {
+                "2024122117": 7139.9147504206,
+                "2024122118": 7630.9620426979,
+                "2024122119": 8023.5016217071,
+                "2024122120": 8001.2204364361,
+                "2024122121": 8016.5426041254,
+                "2024122122": 8019.2915682968,
+                "2024122123": 8029.0313741642,
+                "2024122200": 8027.163748146,
+                "2024122201": 8014.503625776,
+                "2024122202": 8009.7119387829,
+                "2024122203": 8284.1447303426,
+                "2024122204": 9331.8425862605,
+                "2024122205": 12581.329657522,
+                "2024122206": 15067.412965186,
+                "2024122207": 14978.809297913,
+                "2024122208": 14838.066904904,
+                "2024122209": 11627.873635308,
+                "2024122210": 9259.8448188711,
+                "2024122211": 8010.3294767563,
+                "2024122212": 8003.7903642947,
+                "2024122213": 7566.2325134257,
+                "2024122214": 7487.0128783776,
+                "2024122215": 7648.8450424178,
+                "2024122216": 8030.8992890153,
+                "2024122217": 8766.2443569302,
+                "2024122218": 9488.3389160647,
+                "2024122219": 9755.3321733751,
+                "2024122220": 9769.1793274656,
+                "2024122221": 9780.9766811694,
+                "2024122222": 9787.4267079635,
+                "2024122223": 9793.8564748669,
+                "2024122300": 10126.807650333,
+                "2024122301": 10213.141641295,
+                "2024122302": 10188.496354217,
+                "2024122303": 10189.989782552,
+                "2024122304": 10165.708138199,
+                "2024122305": 10185.847581251,
+                "2024122306": 11311.220319796,
+                "2024122307": 15119.100255661,
+                "2024122308": 15342.629880758,
+                "2024122309": 13191.118609994,
+                "2024122310": 8825.3090581575,
+                "2024122311": 7998.9105525781,
+                "2024122312": 7964.288626172,
+                "2024122313": 7979.5321174581,
+                "2024122314": 8006.9250570218,
+                "2024122315": 8018.7946298481,
+                "2024122316": 8007.9340945132
+            }
+        },
+        {
+            "itemName": "FS复合防弹衣",
+            "itemID": 11050005003,
+            "itemGrade": 5,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 7987.2006903262
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "8",
+                    "hourlyProfit": 11980.801035489
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11050005003.png",
+            "place": "armory",
+            "placeName": "防具台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "钛合金 (军需处兑换)",
+                    "itemID": 15020050006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020050006.png",
+                    "count": 3,
+                    "perPrice": 26814.641783582,
+                    "totalPrice": 80443.925350746
+                },
+                {
+                    "itemName": "高出力粉碎钳",
+                    "itemID": 15020010024,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010024.png",
+                    "count": 1,
+                    "perPrice": 27840.588887561,
+                    "totalPrice": 27840.588887561
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 1,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 4199.9089105362
+                }
+            ],
+            "totalMaterialValue": 112484.42314884,
+            "perCount": 1,
+            "singlePrice": 234079.5858795,
+            "profit": 95846.408283914,
+            "yesterdayHighestPrice": 311200.53019695,
+            "yesterdayHighestProfit": 172090.36825151,
+            "yesterdayTotalMaterialValue": 104878.10362377,
+            "yesterdayHighestTime": "晚上7点",
+            "priceCurve": {
+                "2024122117": 274948.48664611,
+                "2024122118": 282095.82053583,
+                "2024122119": 284188.04036229,
+                "2024122120": 285124.80060602,
+                "2024122121": 287153.0409992,
+                "2024122122": 286694.95454006,
+                "2024122123": 288236.66316241,
+                "2024122200": 288526.66950506,
+                "2024122201": 289689.81267409,
+                "2024122202": 291957.17331267,
+                "2024122203": 291880.05952703,
+                "2024122204": 293457.90971189,
+                "2024122205": 295221.4218282,
+                "2024122206": 294158.80492375,
+                "2024122207": 294481.54003034,
+                "2024122208": 296275.36789404,
+                "2024122209": 283774.5414606,
+                "2024122210": 276706.11628099,
+                "2024122211": 276573.40087427,
+                "2024122212": 276147.04437466,
+                "2024122213": 276365.54639173,
+                "2024122214": 276119.70667338,
+                "2024122215": 279165.58345421,
+                "2024122216": 287715.48308743,
+                "2024122217": 298020.07724754,
+                "2024122218": 304429.14635761,
+                "2024122219": 311200.53019695,
+                "2024122220": 308781.07026991,
+                "2024122221": 306901.10508264,
+                "2024122222": 307906.22517155,
+                "2024122223": 308681.35370974,
+                "2024122300": 306923.89067257,
+                "2024122301": 302737.65111374,
+                "2024122302": 298155.36060682,
+                "2024122303": 296810.85996453,
+                "2024122304": 297405.74354989,
+                "2024122305": 298011.90077084,
+                "2024122306": 296773.14245006,
+                "2024122307": 266216.42035135,
+                "2024122308": 241987.3217502,
+                "2024122309": 226475.02846013,
+                "2024122310": 222936.95003453,
+                "2024122311": 228018.38651734,
+                "2024122312": 230719.3138993,
+                "2024122313": 229363.25973314,
+                "2024122314": 231082.91024719,
+                "2024122315": 233542.44413538,
+                "2024122316": 234079.5858795
+            }
+        },
+        {
+            "itemName": "DICH-1战术头盔",
+            "itemID": 11010005003,
+            "itemGrade": 5,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 7806.3387665785
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "8",
+                    "hourlyProfit": 11709.508149868
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005003.png",
+            "place": "armory",
+            "placeName": "防具台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "钛合金 (军需处兑换)",
+                    "itemID": 15020050006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020050006.png",
+                    "count": 2,
+                    "perPrice": 26814.641783582,
+                    "totalPrice": 53629.283567164
+                },
+                {
+                    "itemName": "高出力粉碎钳",
+                    "itemID": 15020010024,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010024.png",
+                    "count": 1,
+                    "perPrice": 27840.588887561,
+                    "totalPrice": 27840.588887561
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 1,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 4199.9089105362
+                }
+            ],
+            "totalMaterialValue": 85669.781365261,
+            "perCount": 1,
+            "singlePrice": 201512.18715079,
+            "profit": 93676.065198942,
+            "yesterdayHighestPrice": 272217.66097496,
+            "yesterdayHighestProfit": 161000.60306946,
+            "yesterdayTotalMaterialValue": 81273.115198253,
+            "yesterdayHighestTime": "晚上6点",
+            "priceCurve": {
+                "2024122117": 235435.39179992,
+                "2024122118": 249529.45425502,
+                "2024122119": 250643.61626491,
+                "2024122120": 248852.82229413,
+                "2024122121": 250325.80554789,
+                "2024122122": 253613.31534545,
+                "2024122123": 253891.539144,
+                "2024122200": 251910.63202398,
+                "2024122201": 249704.1347957,
+                "2024122202": 247850.24196776,
+                "2024122203": 247222.49194179,
+                "2024122204": 245935.84681537,
+                "2024122205": 247963.26322627,
+                "2024122206": 251596.67317664,
+                "2024122207": 249194.71376904,
+                "2024122208": 247272.73652025,
+                "2024122209": 240700.00784639,
+                "2024122210": 223986.13497396,
+                "2024122211": 227079.12393561,
+                "2024122212": 229579.40134873,
+                "2024122213": 234178.19026402,
+                "2024122214": 234468.52717969,
+                "2024122215": 238470.77250394,
+                "2024122216": 247697.23936573,
+                "2024122217": 264137.59370177,
+                "2024122218": 272217.66097496,
+                "2024122219": 269461.06554748,
+                "2024122220": 265805.01680994,
+                "2024122221": 265968.16072814,
+                "2024122222": 266737.88233553,
+                "2024122223": 266675.71920702,
+                "2024122300": 265969.09431925,
+                "2024122301": 261125.90923429,
+                "2024122302": 255522.25032753,
+                "2024122303": 253270.82575295,
+                "2024122304": 252777.14657204,
+                "2024122305": 254427.64170255,
+                "2024122306": 257123.77464109,
+                "2024122307": 219241.26324672,
+                "2024122308": 193388.45616554,
+                "2024122309": 184590.3957142,
+                "2024122310": 189911.11400586,
+                "2024122311": 198273.21455658,
+                "2024122312": 199696.9278268,
+                "2024122313": 201076.06669139,
+                "2024122314": 205401.74773047,
+                "2024122315": 203827.64862637,
+                "2024122316": 201512.18715079
+            }
+        },
+        {
+            "itemName": "GN 重型头盔",
+            "itemID": 11010005004,
+            "itemGrade": 5,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 7290.5743725673
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "8",
+                    "hourlyProfit": 10935.861558851
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005004.png",
+            "place": "armory",
+            "placeName": "防具台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "钛合金 (军需处兑换)",
+                    "itemID": 15020050006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020050006.png",
+                    "count": 2,
+                    "perPrice": 26814.641783582,
+                    "totalPrice": 53629.283567164
+                },
+                {
+                    "itemName": "芳纶纤维",
+                    "itemID": 15020040002,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020040002.png",
+                    "count": 1,
+                    "perPrice": 26018.640377388,
+                    "totalPrice": 26018.640377388
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 2,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 8399.8178210723
+                },
+                {
+                    "itemName": "压力计",
+                    "itemID": 15020040003,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020040003.png",
+                    "count": 2,
+                    "perPrice": 4302.4351951859,
+                    "totalPrice": 8604.8703903719
+                }
+            ],
+            "totalMaterialValue": 96652.612155997,
+            "perCount": 1,
+            "singlePrice": 206898.3198054,
+            "profit": 87486.892470808,
+            "yesterdayHighestPrice": 255140.28878939,
+            "yesterdayHighestProfit": 135461.3069497,
+            "yesterdayTotalMaterialValue": 91613.550072857,
+            "yesterdayHighestTime": "晚上6点",
+            "priceCurve": {
+                "2024122117": 227462.62088991,
+                "2024122118": 235369.43487597,
+                "2024122119": 237459.57293466,
+                "2024122120": 234921.38420817,
+                "2024122121": 235173.46777955,
+                "2024122122": 237753.60219101,
+                "2024122123": 240530.93710501,
+                "2024122200": 240492.33121877,
+                "2024122201": 235421.11277957,
+                "2024122202": 230939.89992412,
+                "2024122203": 230472.81980007,
+                "2024122204": 231850.4873914,
+                "2024122205": 231823.66641612,
+                "2024122206": 235669.97815602,
+                "2024122207": 230686.40124401,
+                "2024122208": 233485.17804872,
+                "2024122209": 224126.16653451,
+                "2024122210": 219045.0401101,
+                "2024122211": 220719.18779377,
+                "2024122212": 223677.641913,
+                "2024122213": 225042.08128713,
+                "2024122214": 225649.16831384,
+                "2024122215": 228735.3999946,
+                "2024122216": 230792.30482688,
+                "2024122217": 246387.86393655,
+                "2024122218": 255140.28878939,
+                "2024122219": 254314.87400283,
+                "2024122220": 250561.11076363,
+                "2024122221": 247470.74639313,
+                "2024122222": 248555.49962239,
+                "2024122223": 254887.85127561,
+                "2024122300": 254253.10748537,
+                "2024122301": 247215.44687739,
+                "2024122302": 240520.28411914,
+                "2024122303": 238929.30053347,
+                "2024122304": 238312.97784271,
+                "2024122305": 237921.84022066,
+                "2024122306": 235869.3292634,
+                "2024122307": 228346.54662442,
+                "2024122308": 218809.25133056,
+                "2024122309": 200820.07980595,
+                "2024122310": 201081.3815939,
+                "2024122311": 205290.38630286,
+                "2024122312": 205487.41475252,
+                "2024122313": 206281.89357776,
+                "2024122314": 208214.10048289,
+                "2024122315": 208729.63207464,
+                "2024122316": 206898.3198054
+            }
+        },
+        {
+            "itemName": "重型突击背心",
+            "itemID": 11050005004,
+            "itemGrade": 5,
+            "itemForge": [
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "12",
+                    "hourlyProfit": 5820.9183085639
+                },
+                {
+                    "requiredLevel": 3,
+                    "productionTime": "8",
+                    "hourlyProfit": 8731.3774628458
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11050005004.png",
+            "place": "armory",
+            "placeName": "防具台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "钛合金 (军需处兑换)",
+                    "itemID": 15020050006,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020050006.png",
+                    "count": 3,
+                    "perPrice": 26814.641783582,
+                    "totalPrice": 80443.925350746
+                },
+                {
+                    "itemName": "芳纶纤维",
+                    "itemID": 15020040002,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020040002.png",
+                    "count": 3,
+                    "perPrice": 26018.640377388,
+                    "totalPrice": 78055.921132165
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 2,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 8399.8178210723
+                }
+            ],
+            "totalMaterialValue": 166899.66430398,
+            "perCount": 1,
+            "singlePrice": 266012.00450197,
+            "profit": 69851.019702767,
+            "yesterdayHighestPrice": 336131.9616009,
+            "yesterdayHighestProfit": 158336.26363789,
+            "yesterdayTotalMaterialValue": 140821.18218691,
+            "yesterdayHighestTime": "上午6点",
+            "priceCurve": {
+                "2024122117": 308568.33762247,
+                "2024122118": 315388.75022265,
+                "2024122119": 322922.1617345,
+                "2024122120": 325582.77466196,
+                "2024122121": 325440.41607127,
+                "2024122122": 325216.18690792,
+                "2024122123": 329941.16955233,
+                "2024122200": 332434.97711244,
+                "2024122201": 332474.89498073,
+                "2024122202": 333052.23070144,
+                "2024122203": 333410.115704,
+                "2024122204": 335132.17150392,
+                "2024122205": 334266.35009843,
+                "2024122206": 336131.9616009,
+                "2024122207": 337675.38062909,
+                "2024122208": 340406.12891094,
+                "2024122209": 322358.32394039,
+                "2024122210": 309629.11762292,
+                "2024122211": 311256.66032574,
+                "2024122212": 310282.19478863,
+                "2024122213": 309017.92883843,
+                "2024122214": 308784.06997436,
+                "2024122215": 309523.92077539,
+                "2024122216": 313445.30257263,
+                "2024122217": 321976.43864939,
+                "2024122218": 341002.10126936,
+                "2024122219": 346398.40269767,
+                "2024122220": 346423.63292119,
+                "2024122221": 343530.16555195,
+                "2024122222": 343271.23713959,
+                "2024122223": 342420.58419435,
+                "2024122300": 341595.27592662,
+                "2024122301": 339518.327164,
+                "2024122302": 335187.73759096,
+                "2024122303": 333269.61821961,
+                "2024122304": 335383.02226179,
+                "2024122305": 340506.48279046,
+                "2024122306": 340075.84597395,
+                "2024122307": 331809.85326054,
+                "2024122308": 318426.5155631,
+                "2024122309": 277561.50941221,
+                "2024122310": 264032.88873797,
+                "2024122311": 263954.69434488,
+                "2024122312": 260943.08751816,
+                "2024122313": 261469.43058542,
+                "2024122314": 263154.50285132,
+                "2024122315": 264381.23472588,
+                "2024122316": 266012.00450197
+            }
+        },
+        {
+            "itemName": "GIR野战胸挂",
+            "itemID": 11070004004,
+            "itemGrade": 4,
+            "itemForge": [
+                {
+                    "requiredLevel": 1,
+                    "productionTime": "12",
+                    "hourlyProfit": 4631.5206760029
+                },
+                {
+                    "requiredLevel": 2,
+                    "productionTime": "8",
+                    "hourlyProfit": 6947.2810140044
+                }
+            ],
+            "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11070004004.png",
+            "place": "armory",
+            "placeName": "防具台",
+            "totalMaterialLists": [
+                {
+                    "itemName": "高分子布料",
+                    "itemID": 15020010025,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010025.png",
+                    "count": 1,
+                    "perPrice": "20461",
+                    "totalPrice": 20461
+                },
+                {
+                    "itemName": "原木木板",
+                    "itemID": 15020010008,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010008.png",
+                    "count": 3,
+                    "perPrice": 4199.9089105362,
+                    "totalPrice": 12599.726731608
+                },
+                {
+                    "itemName": "螺丝刀",
+                    "itemID": 15020010005,
+                    "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/15020010005.png",
+                    "count": 2,
+                    "perPrice": 2860.8012429784,
+                    "totalPrice": 5721.6024859567
+                }
+            ],
+            "totalMaterialValue": 38782.329217565,
+            "perCount": 1,
+            "singlePrice": 106023.12059506,
+            "profit": 55578.248112035,
+            "yesterdayHighestPrice": 115256.39920025,
+            "yesterdayHighestProfit": 63030.991991677,
+            "yesterdayTotalMaterialValue": 39547.203296545,
+            "yesterdayHighestTime": "上午6点",
+            "priceCurve": {
+                "2024122117": 107661.38943411,
+                "2024122118": 107858.91566894,
+                "2024122119": 108061.78321143,
+                "2024122120": 110379.8602117,
+                "2024122121": 110485.88809368,
+                "2024122122": 110459.86141117,
+                "2024122123": 111485.99303401,
+                "2024122200": 112919.74008439,
+                "2024122201": 112839.94225812,
+                "2024122202": 112739.19210408,
+                "2024122203": 112785.26029002,
+                "2024122204": 112773.7853983,
+                "2024122205": 112983.38659145,
+                "2024122206": 115256.39920025,
+                "2024122207": 93349.012329932,
+                "2024122208": 96510.852845359,
+                "2024122209": 97656.481006198,
+                "2024122210": 100077.79574119,
+                "2024122211": 100441.7319355,
+                "2024122212": 102927.86031214,
+                "2024122213": 103188.09168509,
+                "2024122214": 105422.46357486,
+                "2024122215": 105466.8040298,
+                "2024122216": 107892.50639036,
+                "2024122217": 107957.2372106,
+                "2024122218": 110190.31814826,
+                "2024122219": 110418.88050095,
+                "2024122220": 110471.53622595,
+                "2024122221": 111352.24999098,
+                "2024122222": 113003.30243737,
+                "2024122223": 112963.04338645,
+                "2024122300": 112922.53269046,
+                "2024122301": 114205.96978079,
+                "2024122302": 116188.62951191,
+                "2024122303": 117895.45978795,
+                "2024122304": 118835.93217091,
+                "2024122305": 120416.23508754,
+                "2024122306": 120243.57864633,
+                "2024122307": 93969.516115196,
+                "2024122308": 97473.514164659,
+                "2024122309": 98547.921664019,
+                "2024122310": 100211.3762089,
+                "2024122311": 100241.79531727,
+                "2024122312": 102212.48951158,
+                "2024122313": 102845.24642685,
+                "2024122314": 104268.1829147,
+                "2024122315": 105341.97441389,
+                "2024122316": 106023.12059506
+            }
+        }
+    ],
+    "version": "2024122317"
+}

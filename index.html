@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            margin: 0;
+        }
+        #app {
+            display: flex;
+            flex-flow: row;
+            background-image: url("https://game.gtimg.cn/images/dfm/cp/a20240906main/part2.jpg");
+            background-repeat: no-repeat;
+            background-size: auto;
+        }
+
+        #app h3 {
+            text-align: center;
+            font-size: 16px;
+            margin-bottom: 30px;
+            color: #eaebeb;
+        }
+        p { margin: 0; }
+        .build {
+            display: flex;
+            gap: 20px;
+        }
+        .list-item { 
+            margin-right: 15px;
+        }
+        .image-wrapper {
+            background: #495556;
+            font-size: 0;
+            line-height: 0;
+        }
+        .build-item {
+            display: flex;
+            position: relative;
+            margin-bottom: 20px;
+        }
+    
+        .build-item--normal > .image-wrapper {
+            background-color: rgba(196, 196, 194, 0.4);
+        }
+        .build-item--green > .image-wrapper{
+            background-color: rgba(33, 113, 88, 0.5);
+        }
+        .build-item--blue > .image-wrapper{
+            background-color: rgba(56, 91, 123, 0.5);
+        }
+        .build-item--purple > .image-wrapper{
+            background-color: rgba(89, 68, 123, 0.5);;
+        }
+        .build-item--golden > .image-wrapper{
+            background-color: rgba(151, 95, 61, 0.5);;
+        }
+
+        .item-image {
+            object-fit: contain;
+            padding: 10px;
+            width: 35px;
+            height: 35px;
+            border: 1px solid #666d6e;
+        }
+        .item-title {
+            /* position: absolute;
+            left: 0;
+            top: 4px; */
+            align-self: center;
+            padding: 0 8px;
+            color: #eaebeb;
+            font-size: 12px;
+            line-height: 1.2;
+            word-break: break-all;
+        }
+        /* .item-image.item-image--square {
+            width: 40px;
+            height: 40px;
+        } */
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <div class="build">
+            <div v-for="item in item_id_maps" class="list-item"> 
+                <h3>{{ item.title }}</h3>
+                <div v-for="i in res[item.keyName]" class="build-item" 
+                v-bind:class=" 'build-item--' + ['normal', 'normal', 'green', 'blue', 'purple', 'golden'][i.itemGrade] ">
+                    <div class="image-wrapper">
+                        <img class="item-image " v-bind:src="i.pic" alt="">
+                    </div>
+                    <p class="item-title">{{ i.itemName }}</p>
+                </div>
+            </div>
+        </div>     
+    </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script>
+    const fetchData = async () => {
+        return await fetch('./data.json').then(response => {
+            // 检查响应状态
+
+            if (!response.ok) {
+                throw new Error('Network response was not ok ' + response.statusText);
+            }
+            return response.json(); // 解析 JSON 响应
+        })
+            .then(data => {
+                console.log('Success:', data);
+                return data
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+    }
+
+    const item_id_maps = [
+        { itemIdStartBy: "18", title: "枪支", keyName: "gun" },
+        { itemIdStartBy: "13", title: "配件", keyName: "parts" },
+        { itemIdStartBy: "37", title: "子弹", keyName: "bullet" },
+        { itemIdStartBy: "14", title: "医疗物品", keyName: "medical" },
+        { itemIdStartBy: "11", title: "装备", keyName: "equip" },
+    ]
+
+    var app = new Vue({
+        el: '#app',
+        data: {
+            res: { gun: [], parts: [], bullet: [], medical: [], equip: [] },
+            item_id_maps: item_id_maps,
+        },
+        beforeMount: async function () {
+            const res = await fetchData()
+            const { data } = res || {}
+            if (data) {
+                console.log(data)
+
+                // 用于存放分类后的结果
+                const categorizedItems = { gun: [], parts: [], bullet: [], medical: [], equip: [] };
+
+                // 遍历数组
+                data.forEach(item => {
+                    const itemIdStart = String(item.itemID).substring(0, 2); // 获取 itemID 的前两位，并转为字符串
+
+                    // 在 item_id_maps 中查找匹配项
+                    const match = item_id_maps.find(map => map.itemIdStartBy === itemIdStart);
+
+                    // 如果找到匹配项，则将当前元素放到相应的数组中
+                    if (match) {
+                        const keyName = match.keyName; // 获取对应的 keyName
+                        categorizedItems[keyName].push(item); // 将元素放入对应的数组
+                    }
+                });
+
+                for (const key in categorizedItems) {
+                    categorizedItems[key].sort((a, b) => b.singlePrice - a.singlePrice);
+                }
+
+                this.res = categorizedItems
+
+                console.log(this.res)
+            }
+        }
+    })
+
+</script>
+
+</html>
